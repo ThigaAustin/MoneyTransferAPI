@@ -21,9 +21,7 @@ A RESTful API for managing accounts and performing money transfers between them.
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-  - [Endpoints](#endpoints)
-  - [Error Handling](#error-handling)
+- [Endpoints](#APIendpoints)
 - [Testing](#testing)
 - [Future Enhancements](#future-enhancements)
 
